@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Tyler 👋
+
+- I like funny t-shirts
+- I like to stay up late
+- I like automating things
 
 <!--
 **tyler-lemke/tyler-lemke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
