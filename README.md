@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I like to eat pizza
+- I like Fridays and Mondays equally
+- I like long walks on the moon
